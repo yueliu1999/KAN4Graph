@@ -2,6 +2,13 @@
 
 Implementation of Kolmogorov-Arnold Network (KAN) for Graphs
 
+[![stars](https://img.shields.io/github/stars/yueliu1999/KAN4Graph?color=yellow)](https://github.com/yueliu1999/Dink-Net/stars)
+[![forks](https://img.shields.io/github/forks/yueliu1999/Dink-Net?color=lightblue)](https://github.com/yueliu1999/KAN4Graph/forks)
+[![ issues](https://img.shields.io/github/issues-raw/yueliu1999/KAN4Graph?color=%23FF9600)](https://github.com/yueliu1999/Dink-Net/issues)
+[![ visitors](https://visitor-badge.glitch.me/badge?page_id=yueliu1999.KAN4Graph)](https://github.com/yueliu1999/Dink-Net)
+
+
+
 
 
 <details>
@@ -9,7 +16,6 @@ Implementation of Kolmogorov-Arnold Network (KAN) for Graphs
   <ol>
     <li><a href="#Usage">Usage</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
-    <li><a href="#citation">Citation</a></li>
   </ol>
 </details>
 
@@ -39,7 +45,10 @@ Python package information is summarized in **requirements.txt**:
 
 | Dataset | Type            | # Nodes | # Edges | # Feature Dimensions | # Classes |
 | ------- | --------------- | :-----: | :-----: | :------------------: | :-------: |
+| BAT     | Attribute Graph |   131   |   81    |         1038         |     4     |
 | UAT     | Attribute Graph |  1,190  |   239   |        13,599        |     4     |
+
+still updating...
 
 
 
@@ -54,9 +63,28 @@ cd ./KAN4Graph
 
 
 
+run codes
+
+```
+python main.py
+```
+
 
 
 ### Results
+
+| Dataset | Metric | Score |
+| ------- | ------ | ----- |
+| BAT     | ACC    | 77.86 |
+|         | NMI    | 54.48 |
+|         | ARI    | 52.33 |
+|         | F1     | 77.34 |
+| UAT     | ACC    | 57.05 |
+|         | NMI    | 25.49 |
+|         | ARI    | 24.97 |
+|         | F1     | 55.80 |
+
+still updating...
 
 
 
@@ -74,9 +102,7 @@ Our code are partly based on the following GitHub repository. Thanks for their a
 
 
 
-## Citations
 
-If you find this repository helpful, please cite our paper (coming soon).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
