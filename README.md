@@ -1,6 +1,6 @@
 # KAN4Graph
 
-Implementation of Kolmogorov-Arnold Network (KAN) for Graphs. Any communications, collaborations, issues, PRs are welcomed. Please contact yueliu19990731@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+Implementation of Kolmogorov-Arnold Network (KAN) for Graphs. Any communications, collaborations, issues, PRs are welcomed. The contributors will be listed [here](https://github.com/yueliu1999/KAN4Graph?tab=readme-ov-file#Contributors). Please contact yueliu19990731@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
 
 
 
@@ -68,7 +68,7 @@ cd ./KAN4Graph
 run codes
 
 ```
-python main.py
+python train.py
 ```
 
 
@@ -103,6 +103,10 @@ Our code are partly based on the following GitHub repository. Thanks for their a
 
 
 
+
+## Contributors
+
+<a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
 
 
 
