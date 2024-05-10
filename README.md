@@ -1,6 +1,8 @@
 # KAN4Graph
 
-Implementation of Kolmogorov-Arnold Network (KAN) for Graphs
+Implementation of Kolmogorov-Arnold Network (KAN) for Graphs. Any communications, collaborations, issues, PRs are welcomed. Please contact yueliu19990731@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+
+
 
 [![stars](https://img.shields.io/github/stars/yueliu1999/KAN4Graph?color=yellow)](https://github.com/yueliu1999/KAN4Graph/stars)
 [![forks](https://img.shields.io/github/forks/yueliu1999/KAN4Graph?color=lightblue)](https://github.com/yueliu1999/KAN4Graph/forks)
