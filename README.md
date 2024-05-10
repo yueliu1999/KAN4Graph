@@ -2,10 +2,10 @@
 
 Implementation of Kolmogorov-Arnold Network (KAN) for Graphs
 
-[![stars](https://img.shields.io/github/stars/yueliu1999/KAN4Graph?color=yellow)](https://github.com/yueliu1999/Dink-Net/stars)
-[![forks](https://img.shields.io/github/forks/yueliu1999/Dink-Net?color=lightblue)](https://github.com/yueliu1999/KAN4Graph/forks)
-[![ issues](https://img.shields.io/github/issues-raw/yueliu1999/KAN4Graph?color=%23FF9600)](https://github.com/yueliu1999/Dink-Net/issues)
-[![ visitors](https://visitor-badge.glitch.me/badge?page_id=yueliu1999.KAN4Graph)](https://github.com/yueliu1999/Dink-Net)
+[![stars](https://img.shields.io/github/stars/yueliu1999/KAN4Graph?color=yellow)](https://github.com/yueliu1999/KAN4Graph/stars)
+[![forks](https://img.shields.io/github/forks/yueliu1999/KAN4Graph?color=lightblue)](https://github.com/yueliu1999/KAN4Graph/forks)
+[![ issues](https://img.shields.io/github/issues-raw/yueliu1999/KAN4Graph?color=%23FF9600)](https://github.com/yueliu1999/KAN4Graph/issues)
+[![ visitors](https://visitor-badge.glitch.me/badge?page_id=yueliu1999.KAN4Graph)](https://github.com/yueliu1999/KAN4Graph)
 
 
 
