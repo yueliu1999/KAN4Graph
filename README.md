@@ -43,6 +43,23 @@ Python package information is summarized in **requirements.txt**:
 
 
 
+### Quick Start
+
+clone this repository and change directory to KAN4Graph
+
+```
+git clone https://github.com/yueliu1999/KAN4Graph.git
+cd ./KAN4Graph
+```
+
+
+
+
+
+### Results
+
+
+
 ## Acknowledgements
 
 Our code are partly based on the following GitHub repository. Thanks for their awesome works. 
