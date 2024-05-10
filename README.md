@@ -37,15 +37,9 @@ Python package information is summarized in **requirements.txt**:
 
 ### Datasets
 
-| Dataset         | Type            |   # Nodes   |    # Edges    | # Feature Dimensions | # Classes |
-| --------------- | --------------- | :---------: | :-----------: | :------------------: | :-------: |
-| Cora            | Attribute Graph |    2,708    |     5,278     |        1,433         |     7     |
-| CiteSeer        | Attribute Graph |    3,327    |     4,614     |        3,703         |     6     |
-| Amazon-Photo    | Attribute Graph |    7,650    |    119,081    |         745          |     8     |
-| ogbn-arxiv      | Attribute Graph |   169,343   |   1,166,243   |         128          |    40     |
-| Reddit          | Attribute Graph |   232,965   |  23,213,838   |         602          |    41     |
-| ogbn-products   | Attribute Graph |  2,449,029  |  61,859,140   |         100          |    47     |
-| ogbn-papers100M | Attribute Graph | 111,059,956 | 1,615,685,872 |         128          |    172    |
+| Dataset | Type            | # Nodes | # Edges | # Feature Dimensions | # Classes |
+| ------- | --------------- | :-----: | :-----: | :------------------: | :-------: |
+| UAT     | Attribute Graph |  1,190  |   239   |        13,599        |     4     |
 
 
 
