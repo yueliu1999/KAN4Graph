@@ -45,10 +45,11 @@ Python package information is summarized in **requirements.txt**:
 
 ### Datasets
 
-| Dataset | Type            | # Nodes | # Edges | # Feature Dimensions | # Classes |
+| Dataset | Type            | # Nodes | # Feature Dimensions | # Edges | # Classes |
 | ------- | --------------- | :-----: | :-----: | :------------------: | :-------: |
 | BAT     | Attribute Graph |   131   |   81    |         1038         |     4     |
 | UAT     | Attribute Graph |  1,190  |   239   |        13,599        |     4     |
+| EAT     | Attribute Graph |  399  |   203   |        5,994	        |     4     |
 
 still updating...
 
@@ -85,7 +86,10 @@ python train.py
 |         | NMI    | 25.49 |
 |         | ARI    | 24.97 |
 |         | F1     | 55.80 |
-
+| EAT     | ACC    | 57.87 |
+|         | NMI    | 34.16 |
+|         | ARI    | 27.52 |
+|         | F1     | 58.09 |
 
 
 still updating...
