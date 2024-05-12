@@ -18,7 +18,7 @@ parser.add_argument('--device', type=str, default='cuda:0', help='device')
 
 args = parser.parse_args()
 
-for args.dataset in ["bat", "uat"]:
+for args.dataset in ["bat", "uat", "eat"]:
     print("Using {} dataset".format(args.dataset))
     file = open("result_baseline.csv", "a+")
     print(args.dataset, file=file)
@@ -34,6 +34,11 @@ for args.dataset in ["bat", "uat"]:
         args.gnnlayers = 3
         args.lr = 1e-2
         args.dims = [500]
+    elif args.dataset == 'eat':
+        args.cluster_num = 4
+        args.gnnlayers = 7
+        args.lr = 1
+        args.dims = [100]
 
     # load data
     X, y, A = load_graph_data(args.dataset, show_details=False)
