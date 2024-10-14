@@ -113,7 +113,26 @@ Our code are partly based on the following GitHub repository. Thanks for their a
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
 
 
+If you find this repository helpful, please cite our paper.
 
+```
+@article{liuyue_SCGC,
+  title={Simple contrastive graph clustering},
+  author={Liu, Yue and Yang, Xihong and Zhou, Sihang and Liu, Xinwang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
+}
+
+@misc{KAN4Graph,
+  author = {Yue Liu},
+  title = {KAN4Graph},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/yueliu1999/KAN4Graph}},
+}
+```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
